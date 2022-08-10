@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "aset_aoi",
+    "aset_collision",
+]
