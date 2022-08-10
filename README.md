@@ -1,2 +1,6 @@
-# aoi-rs
-基于Rust实现的Area of Interest（AOI）算法
+# algorithm_set
+
+Common Game Algorithms impl in Rust.
+
+* Area of Interest（AOI）算法
+* Collison 碰撞算法 ~
